@@ -1,0 +1,10 @@
+* colliflower
+
+Generic interfaces for lisp collections.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/bytecurry/colliflower.git   |
+| commit  | 126aebc  |
+| systems | colliflower |
+|---------+-------------------------------------------|
+
